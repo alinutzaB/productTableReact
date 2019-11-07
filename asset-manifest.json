@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/productTableReact/static/css/main.34de6062.chunk.css",
+    "main.js": "/productTableReact/static/js/main.b732ce92.chunk.js",
+    "main.js.map": "/productTableReact/static/js/main.b732ce92.chunk.js.map",
+    "runtime-main.js": "/productTableReact/static/js/runtime-main.c5c59290.js",
+    "runtime-main.js.map": "/productTableReact/static/js/runtime-main.c5c59290.js.map",
+    "static/js/2.ef5c08fd.chunk.js": "/productTableReact/static/js/2.ef5c08fd.chunk.js",
+    "static/js/2.ef5c08fd.chunk.js.map": "/productTableReact/static/js/2.ef5c08fd.chunk.js.map",
+    "index.html": "/productTableReact/index.html",
+    "precache-manifest.7a6d89b03ee3ca6af1bb143ea7c6f157.js": "/productTableReact/precache-manifest.7a6d89b03ee3ca6af1bb143ea7c6f157.js",
+    "service-worker.js": "/productTableReact/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/productTableReact/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5c59290.js",
+    "static/js/2.ef5c08fd.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.b732ce92.chunk.js"
+  ]
+}
